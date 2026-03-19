@@ -74,7 +74,7 @@ application.security.jwt.secret-key=your_very_secret_key
 ### 3. Execution
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/ELHAIDYousef/pfe-gestion-stock-backend.git
 # Build the project
 mvn clean install
 # Run the application
